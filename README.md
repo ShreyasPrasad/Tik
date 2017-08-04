@@ -3,3 +3,8 @@ Tik is a simple TicTacToe game with a single player mode in which a computer act
 and a *hidden easter egg* :)
 
 To install and play the game, refer to the mediafire link where you will find a downloadable .apk file which you must run on your android device.
+
+## H2 Game Screenshots:
+![alt text](https://raw.githubusercontent.com/ShreyasPrasad/tik/master/screenshots/img1.JPG)
+
+![alt text](https://raw.githubusercontent.com/ShreyasPrasad/tik/master/screenshots/img2.JPG)

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.shreyasprasad.tick" platformBuildVersionCode="24" platformBuildVersionName="7.0">
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@mipmap/ic_launcher" android:label="Tik" android:name="com.android.tools.fd.runtime.BootstrapApplication" android:supportsRtl="true" android:theme="@style/AppTheme">
+        <activity android:name="com.shreyasprasad.tick.title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_settings" android:name="com.shreyasprasad.tick.Settings"/>
+        <activity android:name="com.shreyasprasad.tick.game"/>
+        <service android:enabled="true" android:name="com.shreyasprasad.tick.musicplayer" android:stopWithTask="true"/> android:name="com.shreyasprasad.tick.musicplayer"/&gt;
+</application>
+</manifest>
